@@ -1,0 +1,6 @@
+{
+  "name": "Material Circularity Auditor",
+  "description": "Analyze building material inventories (such as Bills of Quantities and demolition manifests) to determine circularity values, reuse potentials, and carbon savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
